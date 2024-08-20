@@ -11,7 +11,7 @@ Explain what software engineering is and discuss its importance in the technolog
 =>Software engineering is the systematic application of engineering principles, methods and tools to the development and 
   maintenance of quality software systems.
 
-.....................................IMPORTANCE OF SOFTWARE ENGINEERING.............................................
+.....................................IMPORTANCE OF SOFTWARE ENGINEERING.....................................................
                 
 =>Core product offering:
   For many tech companies, software engineering is the primary product or service hence making software engineering central 
@@ -158,7 +158,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
     In Waterfall approach, testing occurs after the development phase is complete while in Agile approach, testing is 
     integrated throughout the development process.
 
-.................................................SCENARIOS.........................................................
+.................................................SCENARIOS..................................................................
       
  =>Waterfall:
    -Projects with well-defined, stable requirements that are unlikely to change.
@@ -229,7 +229,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 =>Integrated Development Environments (IDEs):
 
-  ...................................................IMPORTANCE........................................................
+  ...................................................IMPORTANCE.............................................................
                                                
   -Productivity: 
    IDEs provide a comprehensive set of tools in one interface, reducing context switching.
@@ -254,7 +254,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 =>Version Control Systems (VCS):
 
-  .................................................IMPORTANCE............................................................
+  .................................................IMPORTANCE...............................................................
                                   
   -Collaboration: 
    VCS allows multiple developers to work on the same project simultaneously.
@@ -272,7 +272,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
    Many VCS platforms integrate code review tools, improving code quality and knowledge sharing.
 
 
-  .......................................................EXAMPLES.........................................................
+  .......................................................EXAMPLES...........................................................
   -Git
   -Subversion(SVN)
   -Mercurial
@@ -355,7 +355,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 =>Prompt engineering is the art of crafting questions or statements to get the 
   best possible responses from AI models.
 
-  ......................................IMPORTANCE OF PROMPT EGINEERING..............................
+  ......................................IMPORTANCE OF PROMPT EGINEERING.....................................................
 =>Improved accuracy: 
   Well-crafted prompts can significantly enhance the accuracy and relevance of AI-generated responses, leading to more 
   reliable outputs.
