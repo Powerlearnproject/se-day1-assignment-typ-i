@@ -4,9 +4,9 @@ Software Engineering Day1 Assignment
 
 
 
-<<<Part 1: Introduction to Software Engineering>>>
+Part 1: Introduction to Software Engineering
 
->>>Explain what software engineering is and discuss its importance in the technology industry.
+Explain what software engineering is and discuss its importance in the technology industry.
 
 =>Software engineering is the systematic application of engineering principles, methods and tools to the development and 
   maintenance of quality software systems.
@@ -58,7 +58,7 @@ Software Engineering Day1 Assignment
 
 
 
->>>Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering.
 
 =>The Rise of DevOps (Late 2000s - Early 2010s) emerged as a set of practices combining software development (Dev) and IT 
   operations (Ops). It promoted collaboration between development and operations teams. It led to faster, more reliable 
@@ -90,7 +90,7 @@ Software Engineering Day1 Assignment
 
 
 
->>>List and briefly explain the phases of the Software Development Life Cycle.
+List and briefly explain the phases of the Software Development Life Cycle.
 
 =>Requirements gathering: 
   This involves collection and documentation of the project requirements.
@@ -122,7 +122,7 @@ Software Engineering Day1 Assignment
 
 
 
->>>Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 =>Comparison
   -Both Waterfall and Agile are software development methodologies aimed at producing high-quality software.
@@ -196,7 +196,7 @@ Software Engineering Day1 Assignment
 
 
 
->>>Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 =>Software Developer:
   This is a person responsible for designing, coding and modifying software systems to meet specific requirements. He works 
@@ -225,7 +225,7 @@ Software Engineering Day1 Assignment
 
 
 
->>>Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 =>Integrated Development Environments (IDEs):
 
@@ -285,7 +285,7 @@ Software Engineering Day1 Assignment
 
 
 
->>>What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 =>Keeping up with rapidly evolving technologies.
   This can be rectified by embracing continuous learning, attending conferences, and getting enrolled online courses.
@@ -311,7 +311,7 @@ Software Engineering Day1 Assignment
 
 
 
->>>Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 =>Unit testing:
   This involves testing individual components or functions of a software system in isolation. Developers write and run 
@@ -348,9 +348,9 @@ Software Engineering Day1 Assignment
 
 
 
-<<<Part 2: Introduction to AI and Prompt Engineering>>>
+Part 2: Introduction to AI and Prompt Engineering
 
->>>Define prompt engineering and discuss its importance in interacting with AI models.
+Define prompt engineering and discuss its importance in interacting with AI models.
 
 =>Prompt engineering is the art of crafting questions or statements to get the 
   best possible responses from AI models.
@@ -385,7 +385,7 @@ Software Engineering Day1 Assignment
 
 
 
->>>Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 =>Vague prompt
   "Write a program that does something with numbers."
